@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdelete",
+        "uuid": 12303588,
+        "checksum": "jmsp01"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
